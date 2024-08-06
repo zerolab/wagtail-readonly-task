@@ -1,0 +1,1 @@
+default_app_config = "wagtail_readonly_task.test.apps.WagtailReadOnlyWorkflowTaskTestAppConfig"
